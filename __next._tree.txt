@@ -1,2 +1,2 @@
 :HL["/ihtis-tryon-pages/_next/static/chunks/37j85_3d4brrq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"M5Yi9PRZEIrLfrDYU62NE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"8UpKU6S0N-dVvZX9ergRv"}
